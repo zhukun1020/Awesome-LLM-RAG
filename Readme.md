@@ -3,7 +3,7 @@
 This repo aims to record advanced papers of Retrieval-Augmented Generation (RAG) in LLMs. 
 
 ## When and What to Retrieve
-
+ 
  1.  [Unified Active Retrieval for Retrieval Augmented Generation](http://arxiv.org/abs/2406.12534 )
 
  2.  [Active Retrieval Augmented Generation](https://arxiv.org/abs/2305.06983)
