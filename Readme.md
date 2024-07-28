@@ -46,7 +46,7 @@ This repo aims to record advanced papers of Retrieval-Augmented Generation (RAG)
 
  3.  [Learning Fine-Grained Grounded Citations for Attributed Large Language Models](https://openreview.net/forum?id=7atXKldh-r)
  
- 4.  [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](http://arxiv.org/abs/2310.11511)
+4.  [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](http://arxiv.org/abs/2310.11511)
 
  5.  [Model Internals-based Answer Attribution for Trustworthy Retrieval-Augmented Generation](https://arxiv.org/abs/2406.13663)
 
